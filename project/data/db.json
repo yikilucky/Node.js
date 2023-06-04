@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "id": "hNoBDk_hW",
+      "title": "吃饭",
+      "time": "2023-05-31",
+      "type": "-1",
+      "account": "100",
+      "remarks": "吃顿好的~"
+    },
+    {
+      "id": "gPrr3YTmv",
+      "title": "发工资",
+      "time": "2023-05-30",
+      "type": "1",
+      "account": "25000",
+      "remarks": "终于发工资啦~"
+    }
+  ]
+}
